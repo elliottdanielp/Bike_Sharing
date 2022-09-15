@@ -39,9 +39,9 @@ Looking at the data we can examine if a bike-sharing program in another city is 
 - Men use bikes more then women
 
 # Summary
-Bikeshare services are popular in busy areas, where occupied real estate is densely packed and parking spaces may be scarce. The user base is made up mostly of male subscribers, providing regular income to the program. A bike repair plan is a must especially for the bikes used in the most popular areas. More outreach should be done to attract female riders, but male users seem a reliable market. And main usage seems focused around morning and evening commute times.
+Bikeshare services are popular in busy areas, where real estate is densely packed and parking spaces may be scarce. The user base is made up mostly of male subscribers. A bike repair plan is a must especially for the bikes used in the most popular areas. More outreach should be done to attract female riders, but male users seem a reliable market. And main usage seems focused around morning and evening commute times.
 
-A few additional visualizations would be starting and ending locations during morning and evening rush hour time-windows, to display the flow of traffic between neighborhoods at peak hours. Along with average trip duration by birth year and gender, to explore if there was any difference in male or female or un-gendered riders as they age.
+A few additional visualizations would be starting and ending locations during morning and evening rush hour time-windows, to display the flow of traffic between neighborhoods at peak hours. Along with average trip duration by birth year and gender, to explore if there was any difference in riders as they age.
 
 
 
